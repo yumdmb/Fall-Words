@@ -1,0 +1,333 @@
+{
+  "dictionary": [
+    {
+      "text_eng": "primary school",
+      "text_malay": "sekolah rendah"
+    },
+    {
+      "text_eng": "teacher",
+      "text_malay": "guru"
+    },
+    {
+      "text_eng": "pupil",
+      "text_malay": "murid"
+    },
+    {
+      "text_eng": "holidays",
+      "text_malay": "cuti"
+    },
+    {
+      "text_eng": "class",
+      "text_malay": "kelas"
+    },
+    {
+      "text_eng": "bell",
+      "text_malay": "loceng"
+    },
+    {
+      "text_eng": "group",
+      "text_malay": "kumpulan"
+    },
+    {
+      "text_eng": "exercise book",
+      "text_malay": "buku latihan"
+    },
+    {
+      "text_eng": "quiet",
+      "text_malay": "senyap"
+    },
+    {
+      "text_eng": "(to) answer",
+      "text_malay": "menjawab"
+    },
+    {
+      "text_eng": "headteacher",
+      "text_malay": "ketua pengetua"
+    },
+    {
+      "text_eng": "state school",
+      "text_malay": "sekolah kerajaan"
+    },
+    {
+      "text_eng": "private school",
+      "text_malay": "sekolah swasta"
+    },
+    {
+      "text_eng": "school bus",
+      "text_malay": "bas sekolah"
+    },
+    {
+      "text_eng": "trick",
+      "text_malay": "tipu daya"
+    },
+    {
+      "text_eng": "pair",
+      "text_malay": "pasangan"
+    },
+    {
+      "text_eng": "exercise",
+      "text_malay": "latihan"
+    },
+    {
+      "text_eng": "lunch box",
+      "text_malay": "bekas makan tengahari"
+    },
+    {
+      "text_eng": "neat",
+      "text_malay": "kemas"
+    },
+    {
+      "text_eng": "motivated",
+      "text_malay": "bermotivasi"
+    },
+    {
+      "text_eng": "ball",
+      "text_malay": "bola"
+    },
+    {
+      "text_eng": "Monday",
+      "text_malay": "Isnin"
+    },
+    {
+      "text_eng": "Tuesday",
+      "text_malay": "Selasa"
+    },
+    {
+      "text_eng": "Wednesday",
+      "text_malay": "Rabu"
+    },
+    {
+      "text_eng": "Thursday",
+      "text_malay": "Khamis"
+    },
+    {
+      "text_eng": "Friday",
+      "text_malay": "Jumaat"
+    },
+    {
+      "text_eng": "Saturday",
+      "text_malay": "Sabtu"
+    },
+    {
+      "text_eng": "Sunday",
+      "text_malay": "Ahad"
+    },
+    {
+      "text_eng": "countryside",
+      "text_malay": "desa"
+    },
+    {
+      "text_eng": "rural",
+      "text_malay": "pedesaan"
+    },
+    {
+      "text_eng": "hill",
+      "text_malay": "bukit"
+    },
+    {
+      "text_eng": "valley",
+      "text_malay": "lembah"
+    },
+    {
+      "text_eng": "farm",
+      "text_malay": "ladang"
+    },
+    {
+      "text_eng": "field",
+      "text_malay": "kawasan tanah"
+    },
+    {
+      "text_eng": "pond",
+      "text_malay": "kolam"
+    },
+    {
+      "text_eng": "forest",
+      "text_malay": "hutan"
+    },
+    {
+      "text_eng": "hedge",
+      "text_malay": "semak"
+    },
+    {
+      "text_eng": "rainforest",
+      "text_malay": "hutan hujan tropika"
+    },
+    {
+      "text_eng": "tropics",
+      "text_malay": "kawasan tropika"
+    },
+    {
+      "text_eng": "vegetation",
+      "text_malay": "vegetasi"
+    },
+    {
+      "text_eng": "branch",
+      "text_malay": "cawangan"
+    },
+    {
+      "text_eng": "parasite",
+      "text_malay": "parasit"
+    },
+    {
+      "text_eng": "species",
+      "text_malay": "spesies"
+    },
+    {
+      "text_eng": "jungle",
+      "text_malay": "hutan belantara"
+    },
+    {
+      "text_eng": "equator",
+      "text_malay": "khatulistiwa"
+    },
+    {
+      "text_eng": "dense",
+      "text_malay": "padat"
+    },
+    {
+      "text_eng": "humid",
+      "text_malay": "lembap"
+    },
+    {
+      "text_eng": "rainfall",
+      "text_malay": "hujan"
+    },
+    {
+      "text_eng": "forest floor",
+      "text_malay": "lantai hutan"
+    },
+    {
+      "text_eng": "swamp",
+      "text_malay": "paya"
+    },
+    {
+      "text_eng": "building",
+      "text_malay": "bangunan"
+    },
+    {
+      "text_eng": "house",
+      "text_malay": "rumah"
+    },
+    {
+      "text_eng": "station",
+      "text_malay": "stesen"
+    },
+    {
+      "text_eng": "castle",
+      "text_malay": "istana"
+    },
+    {
+      "text_eng": "tower block",
+      "text_malay": "blok menara"
+    },
+    {
+      "text_eng": "hospital",
+      "text_malay": "hospital"
+    },
+    {
+      "text_eng": "town hall",
+      "text_malay": "dewan bandaran"
+    },
+    {
+      "text_eng": "church",
+      "text_malay": "gereja"
+    },
+    {
+      "text_eng": "factory",
+      "text_malay": "kilang"
+    },
+    {
+      "text_eng": "(to) build",
+      "text_malay": "membina"
+    },
+    {
+      "text_eng": "warehouse",
+      "text_malay": "gudang"
+    },
+    {
+      "text_eng": "fire station",
+      "text_malay": "balai bomba"
+    },
+    {
+      "text_eng": "emergency",
+      "text_malay": "kecemasan"
+    },
+    {
+      "text_eng": "problem",
+      "text_malay": "masalah"
+    },
+    {
+      "text_eng": "ambulance",
+      "text_malay": "ambulans"
+    },
+    {
+      "text_eng": "fire brigade",
+      "text_malay": "pasukan bomba"
+    },
+    {
+      "text_eng": "fire",
+      "text_malay": "kebakaran"
+    },
+    {
+      "text_eng": "firefighter",
+      "text_malay": "bomba"
+    },
+    {
+      "text_eng": "dangerous",
+      "text_malay": "berbahaya"
+    },
+    {
+      "text_eng": "ladder",
+      "text_malay": "tangga"
+    },
+    {
+      "text_eng": "accident",
+      "text_malay": "kemalangan"
+    },
+    {
+      "text_eng": "bystander",
+      "text_malay": "penonton"
+    },
+    {
+      "text_eng": "urgent",
+      "text_malay": "segera"
+    },
+    {
+      "text_eng": "(to) rescue",
+      "text_malay": "menyelamat"
+    },
+    {
+      "text_eng": "ocean",
+      "text_malay": "lautan"
+    },
+    {
+      "text_eng": "sea",
+      "text_malay": "laut"
+    },
+    {
+      "text_eng": "wave",
+      "text_malay": "ombak"
+    },
+    {
+      "text_eng": "beach",
+      "text_malay": "pantai"
+    },
+    {
+      "text_eng": "rock",
+      "text_malay": "batu"
+    },
+    {
+      "text_eng": "seaweed",
+      "text_malay": "rumput laut"
+    },
+    {
+      "text_eng": "island",
+      "text_malay": "pulau"
+    },
+    {
+      "text_eng": "(to) swim",
+      "text_malay": "berenang"
+    }
+  ]
+}
+
